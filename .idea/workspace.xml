@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103efb40-6183-4e44-94b7-e9214bffb511" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/SeriesController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Serie.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_03_29_050330_criar_tabela_series.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/series/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/series/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/series/layout.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/SeriesFormRequest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.styleci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.styleci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SeriesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SeriesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_03_29_050330_criar_tabela_series.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_03_29_050330_criar_tabela_series.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/series/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/series/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/series/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/series/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +152,8 @@
       <workItem from="1585284702995" duration="1746000" />
       <workItem from="1585373581678" duration="663000" />
       <workItem from="1585375162729" duration="795000" />
-      <workItem from="1585435182771" duration="10644000" />
+      <workItem from="1585435182771" duration="10722000" />
+      <workItem from="1585638439728" duration="4442000" />
     </task>
     <servers />
   </component>
@@ -202,9 +196,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585436801053" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585435182793">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585638477634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585638477634" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585435182793" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585640819529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585640819529" />
   </component>
 </project>
